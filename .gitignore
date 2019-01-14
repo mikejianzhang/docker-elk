@@ -3,5 +3,7 @@ composer.phar
 app/vendor/
 app/storage/cache/*
 .idea
+elasticsearch/data/*
+!elasticsearch/data/README.md
 
 
